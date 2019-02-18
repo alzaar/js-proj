@@ -1,0 +1,21 @@
+.options {
+  height: 45px;
+  width: 90px;
+  position: relative;
+  margin-top: 8px;
+}
+
+.container {
+  position: relative;
+  margin-top: -500px;
+}
+
+.img {
+  background-size: 1000px;
+  height: 930px;
+  width: 1850px;
+}
+
+.text {
+  color: #fff;
+}
